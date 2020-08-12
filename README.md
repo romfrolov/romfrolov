@@ -4,7 +4,6 @@
 - 🌱 I’m an avid learner
 - 📫 How to reach me: [LinkedIn][linkedin]
 - 🥅 2020 Goals: Develop my first mobile app
-- ⚡ Fun fact: I love chamomile tea
 
 ### Connect with me:
 
