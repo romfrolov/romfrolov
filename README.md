@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on my own projects
 - 🌱 I’m <s>currently</s> always learning something
-- 👯 I’m looking to collaborate on some breakthrough idea
+- 👯 I’m open for collaborations
 - 💬 Ask me about anything
 - 📫 How to reach me: LinkedIn
 - 🥅 2020 Goals: Develop my first mobile app
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I like chamomile tea
 
 ### Connect with me:
 
