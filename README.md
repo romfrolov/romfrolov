@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on my own projects
 - 🌱 I’m an avid learner
-- 👯 I’m open for collaborations
-- 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn][linkedin]
 - 🥅 2020 Goals: Develop my first mobile app
 - ⚡ Fun fact: I love chamomile tea
