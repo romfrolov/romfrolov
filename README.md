@@ -1,5 +1,7 @@
 ### Hi there, I'm Roman 👋
 
+## I'm a Nodejs Backend Engineer
+
 - 🔭 I’m currently working on my own projects
 - 🌱 I’m <s>currently</s> always learning something
 - 👯 I’m open for collaborations
