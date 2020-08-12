@@ -3,10 +3,10 @@
 ## I'm a Nodejs Backend Engineer
 
 - 🔭 I’m currently working on my own projects
-- 🌱 I’m <s>currently</s> always learning something
+- 🌱 I’m an avid learner
 - 👯 I’m open for collaborations
 - 💬 Ask me about anything
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me: [LinkedIn][linkedin]
 - 🥅 2020 Goals: Develop my first mobile app
 - ⚡ Fun fact: I like chamomile tea
 
