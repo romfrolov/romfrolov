@@ -17,6 +17,7 @@
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/node-dot-js.svg" />][nodejs]
 [<img align="left" alt="Postgres" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/postgresql.svg" />][postgres]
 [<img align="left" alt="Redis" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/redis.svg" />][redis]
+[<img align="left" alt="Ethereum" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/ethereum.svg" />][ethereum]
 
 [twitter]: https://twitter.com/romfrolov
 [youtube]: https://youtube.com/channel/UCviAzZdmxKY8YPYjnIqmmjg
@@ -25,3 +26,4 @@
 [nodejs]: https://nodejs.org/en/
 [postgres]: https://www.postgresql.org/
 [redis]: https://redis.io/
+[ethereum]: https://ethereum.org/
