@@ -2,14 +2,13 @@
 
 - 🔭 I’m currently working on my own projects
 - 🌱 I’m an avid learner
-- 📫 How to reach me: [LinkedIn][linkedin]
+- 📫 How to reach me:
+  - [LinkedIn][linkedin]
+  - [YouTube][youtube]
+  - [Twitter][twitter]
+  - [Instagram][instagram]
 
-### Connect with me:
 
-- [YouTube][youtube]
-- [Twitter][twitter]
-- [LinkedIn][linkedin]
-- [Instagram][instagram]
 
 [twitter]: https://twitter.com/romfrolov
 [youtube]: https://youtube.com/channel/UCviAzZdmxKY8YPYjnIqmmjg
