@@ -1,6 +1,6 @@
 ### Hi there, I'm Roman 👋
 
-- 🔭 I’m currently working on my own projects
+- 🚀 I’m Senior Software Engineer at [Codesphere](codesphere.cloud)
 - 🌱 I’m an avid learner
 - 📫 How to reach me:
   - [LinkedIn][linkedin]
