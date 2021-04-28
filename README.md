@@ -1,8 +1,7 @@
-### Hi there, I'm Roman 👋
+### 👋 Hi there, I'm Roman!
 
-- 🚀 I’m a Senior Software Engineer at [Codesphere](codesphere.cloud)
-- 🌱 I’m an avid learner
-- 📫 How to reach me:
+- I’m a Senior Software Engineer at [Codesphere](codesphere.cloud)
+- How to reach me:
   - [LinkedIn][linkedin]
   - [YouTube][youtube]
   - [Twitter][twitter]
