@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Roman!
 
-- I’m a Senior Software Engineer at [Codesphere](codesphere.cloud)
+- I’m a Senior Software Engineer at [Codesphere](codesphere.com)
 - How to reach me:
   - [LinkedIn][linkedin]
   - [YouTube][youtube]
